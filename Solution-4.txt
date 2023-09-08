@@ -1,0 +1,6 @@
+4. Write a short note on Tag and Element with an example.
+Ans. HTML tags are like keywords which helps to structure and format the web page. It helps the web browser to format and render the webpage accordingly. HTML Tag contains three main parts : opening tag, content, and closing tag. Example:-
+                                       <h1> Content goes here...</h1>
+     HTML Element is evrything from the start tag to the end tag. <tagname> Content goes here...</tagname>. Example :-
+                                      <p> My first paragraph </p>
+Here, everything from the opening <P> tag to the closing </p> tag is an element.
