@@ -1,0 +1,6 @@
+An HTML entity is used to display invisible characters and reserved characters that would otherwise be interpreted as HTML code. Five commonly used HTML entities are :-
+       1. Non-breaking space- &nbsp;
+       2. less than (<) - &lt;
+       3. greater than (>) - &gt;
+       4. ampersand (&) - &amp;
+       5. copyright- &copy; 

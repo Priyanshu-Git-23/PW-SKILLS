@@ -1,0 +1,6 @@
+Ways to improve accessibilty in HTML are:-
+     1. Add alt text to images- Image alt text makes it easier for people with visionary disabilities to understand the content of the webpage. But you should include alt text only for informational images that aid in the understanding of the content.
+
+     2. Maintain heading hierarchy- If you don't use headings in correct hierarchy (from <h1>- the biggest to <h6>- the smallest), screen reader's might assume there's some content missing. Because of this, it is best to use <h1> for the main title only, <h2> for headings that come after title , <h3> for sub-headings, and so on.
+
+     3. Use the Aria property or label tag for input fields- Aria labels or <label> tags tell screen readers what type of information an input field expects. Without them, the screen readers would not know the purpose of an input field, which would provide a bad experience to visually disabled users.

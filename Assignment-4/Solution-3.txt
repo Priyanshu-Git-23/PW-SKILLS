@@ -1,0 +1,5 @@
+Accessibility is the practice of making your websites usable by as many people as possible. We traditionally think of this as being about people with disabilities, but the practice of making sites accessible benefits other groups such as those using mobile devices, or those with slow internet connections.
+
+It is mandatory for websites to be accessible for all users, including those with disablities of all kinds. It allows them acces to same information and services that are available to everyone and includes things like new articles, online shopping, online banking, government services and more.
+
+Accessibility benefits all members of society including people with disablities. Improving accessibility brings about increased quality of life; creates more independence and better social interaction.
