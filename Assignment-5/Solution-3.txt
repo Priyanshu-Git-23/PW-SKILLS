@@ -1,0 +1,9 @@
+Advantages of using <meta> tags are:-
+
+     1. Search Engine Optimization - Meta tags are used to provide information to the Search Engines about the content of the webpage. This can help search engines to  understanf what the page is about and how it should be rendered
+
+     2. Accessibility - Meta tags can be usedd to provide information to assistive technologies about the content of the webpage. This can help users with disabilities access and understand the page.
+
+     3. Security - Meta tags can be used to provide information about the security of the webpage. This can help users understand if the page is safe to visit or not.
+
+     4. Miscellaneous - Meta tags can also be used to provide information about the language of the webpage, the author and other types of information that can help users understand the context of the web page.
