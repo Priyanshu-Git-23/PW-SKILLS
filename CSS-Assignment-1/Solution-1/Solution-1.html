@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS - Project 1</title>
+    <link rel="stylesheet" href="/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@500&display=swap" rel="stylesheet">
+    <style>
+        .target_internal {
+            /* width: 350px; */
+            height: 300px;
+            background-color: #af09ff;
+        }
+
+        .target_all {
+            color: #00bb;
+            background-color: #438f95;
+        }
+    </style>
+</head>
+<body>
+    <!-- Div element with the class target_inline is targeted using inline CSS -->
+    <div class="target_inline" style="height: 200px; width: 200px; background-color: aqua; overflow: auto;">
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat aut nemo temporibus eos iure, molestiae qui? Velit sint inventore, fugiat, ea et placeat quis error dolorum aperiam quibusdam sapiente eveniet magni nihil quisquam? Expedita, quisquam minus laboriosam libero molestias corrupti.</p>
+    </div>
+    <br><br>
+    <!-- Div element with the class target_internal is targeted using internal CSS -->
+    <div class="target_internal">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum rerum quam cum nisi suscipit quibusdam facilis inventore blanditiis ea, id tempore veniam aut enim obcaecati magni quos, nihil dolore quis excepturi impedit, laboriosam doloremque?</p>
+    </div>
+    <br><br>
+    <!-- Div element with the class target_external is targeted using external CSS -->
+    <div class="target_external">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum rerum quam cum nisi suscipit quibusdam facilis inventore blanditiis ea, id tempore veniam aut enim obcaecati magni quos, nihil dolore quis excepturi impedit, laboriosam doloremque?</p>
+    </div>
+    <br><br>
+    <!-- Div element with the class target_all is targeted using all the types of CSS styling but the topmost preference is given to the inline CSS -->
+    <div class="target_all" style="color: rgb(53, 43, 53); background-color: darkolivegreen;">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum rerum quam cum nisi suscipit quibusdam facilis inventore blanditiis ea, id tempore veniam aut enim obcaecati magni quos, nihil dolore quis excepturi impedit, laboriosam doloremque?</p>
+    </div>
+</body>
+</html>

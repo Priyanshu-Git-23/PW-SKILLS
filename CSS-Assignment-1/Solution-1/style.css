@@ -1,0 +1,11 @@
+.target_external {
+    width: 600px;
+    background-color: rgba(233, 152, 99, 0.5);
+    text-shadow: 2px 2px 8px black;
+    font-family: 'Pixelify Sans', cursive;
+}
+
+.target_all {
+    color: rgb(254, 149, 102);
+    background-color: rgb(254, 149, 102);
+}
