@@ -1,0 +1,11 @@
+1. Justify-content : The justify-content property aligns the flexible container's items when the items do not use all available space on the main-axis (Horizontally).
+
+2. Align-items : The align-items property specifies the default alignment for items inside a flexbox. In a flexbox container, the flexbox items are aligned on the cross-axis, which is vertical by default (opposite of flex-direction).
+
+3. Gap : The gap property defines the size of the gap between the rows and between the columns in flexbox. It is a shorthand for the following properties-
+             ~ row-gap
+             ~ column-gap
+
+4. Flex-direction : The flex-direction property specifies the direction of the flexible items. It the element is not a flexible item, the flex-direction property has no effect.
+
+5. Flex-wrap : The flex-wrap property specifies whether the flexible items should wrap or not. If the elements are not flexible items, the flex-wrap property has no effect.
